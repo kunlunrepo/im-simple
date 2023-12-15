@@ -1,0 +1,28 @@
+2023-12-15 11:33:06 -Starting ServiceApp on LAPTOP-1U1VCFK7 with PID 20236 (U:\code-repo\msb\mca\im-simple\im-service\target\classes started by TopSecret in U:\code-repo\msb\mca\im-simple)
+2023-12-15 11:33:06 -The following profiles are active: dev
+2023-12-15 11:33:06 -Tomcat initialized with port(s): 8000 (http)
+2023-12-15 11:33:06 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-12-15 11:33:06 -Starting service [Tomcat]
+2023-12-15 11:33:06 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2023-12-15 11:33:07 -Initializing Spring embedded WebApplicationContext
+2023-12-15 11:33:07 -Root WebApplicationContext: initialization completed in 773 ms
+2023-12-15 11:33:07 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-12-15 11:33:07 -Starting ProtocolHandler ["http-nio-8000"]
+2023-12-15 11:33:07 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-12-15 11:33:07 -Started ServiceApp in 1.822 seconds (JVM running for 2.402)
+2023-12-15 11:33:07 -【IM通信系统】完成
+2023-12-15 11:39:02 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-15 11:39:02 -Initializing Servlet 'dispatcherServlet'
+2023-12-15 11:39:02 -Completed initialization in 4 ms
+2023-12-15 11:42:18 -HikariPool-1 - Starting...
+2023-12-15 11:42:19 -HikariPool-1 - Start completed.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7b0b9e56 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@58e3bbf (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@47b0ffdd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4eb7d4d9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5218d34b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@26bf5974 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@66310469 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@16d0156a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2461e70 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2023-12-15 11:54:04 -HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5eee93b5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
