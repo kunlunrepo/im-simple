@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * @description:
- * @author: kunlunrepo
+ * @
  * @version: 1.0
  */
 @Data
@@ -23,5 +23,6 @@ public class CheckFriendShipReq extends RequestBase {
     private List<String> toIds;
 
     @NotNull(message = "checkType不能为空")
+    // 双向校验还是单向校验
     private Integer checkType;
 }

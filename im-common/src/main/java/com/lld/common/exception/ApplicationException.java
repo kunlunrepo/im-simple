@@ -1,7 +1,7 @@
 package com.lld.common.exception;
 
 /**
- * @author: kunlunrepo
+ * @
  * @description:
  **/
 public class ApplicationException extends RuntimeException {
